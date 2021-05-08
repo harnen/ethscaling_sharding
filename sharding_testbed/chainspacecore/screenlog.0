@@ -1,0 +1,3036 @@
+nullreadConfiguration: Reading configuration
+nullreadConfiguration: Read this line from configuration file shardConfigFile ChainSpaceConfig/shardConfig.txt
+nullreadConfiguration: Token shardConfigFile Val ChainSpaceConfig/shardConfig.txt
+nullreadConfiguration: Read this line from configuration file thisShard 0
+nullreadConfiguration: Token thisShard Val 0
+nullreadConfiguration: Read this line from configuration file thisReplica 0
+nullreadConfiguration: Token thisReplica Val 0
+nullloadConfiguration: Loading configuration
+nullloadConfiguration: thisShard is 0
+nullloadConfiguration: shardConfigFile is ChainSpaceConfig/shardConfig.txt
+nullloadConfiguration: thisReplica is 0
+-- Creating current view from configuration file
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by io.netty.util.internal.ReflectionUtil (file:/Users/srene/workspace/byzcuit/chainspacecore/target/chainspace-1.0-SNAPSHOT-jar-with-dependencies.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of io.netty.util.internal.ReflectionUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+-- ID = 0
+-- N = 4
+-- F = 1
+-- Port = 10000
+-- requestTimeout = 2000
+-- maxBatch = 400
+-- Using MACs
+-- In current view: ID:0; F:1; Processes:0(/127.0.0.1:10000),1(/127.0.0.1:11000),2(/127.0.0.1:12000),3(/127.0.0.1:13000),
+-- Diffie-Hellman complete with 1
+-- Diffie-Hellman complete with 2
+-- Diffie-Hellman complete with 3
+-- Replica state is up to date
+-- Retrieving State
+-- Ready to process operations
+Session Created, active clients=0
+Session Created, active clients=0
+readObjectsFromFile: Reading file
+readObjectsFromFile: Skipping Line # 1 in config file: Insufficient tokens
+readObjectsFromFile: Read this line from configuration file: 2  0
+readObjectsFromFile: object is: 2
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 4  0
+readObjectsFromFile: object is: 4
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 6  0
+readObjectsFromFile: object is: 6
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 8  0
+readObjectsFromFile: object is: 8
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 10 0
+readObjectsFromFile: object is: 10
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 12 0
+readObjectsFromFile: object is: 12
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 14 0
+readObjectsFromFile: object is: 14
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 16 0
+readObjectsFromFile: object is: 16
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 18 0
+readObjectsFromFile: object is: 18
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 20 0
+readObjectsFromFile: object is: 20
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 22 0
+readObjectsFromFile: object is: 22
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 24 0
+readObjectsFromFile: object is: 24
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 26 0
+readObjectsFromFile: object is: 26
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 28 0
+readObjectsFromFile: object is: 28
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 30 0
+readObjectsFromFile: object is: 30
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 32 0
+readObjectsFromFile: object is: 32
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 34 0
+readObjectsFromFile: object is: 34
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 36 0
+readObjectsFromFile: object is: 36
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 38 0
+readObjectsFromFile: object is: 38
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 40 0
+readObjectsFromFile: object is: 40
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 42 0
+readObjectsFromFile: object is: 42
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 44 0
+readObjectsFromFile: object is: 44
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 46 0
+readObjectsFromFile: object is: 46
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 48 0
+readObjectsFromFile: object is: 48
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 50 0
+readObjectsFromFile: object is: 50
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 52 0
+readObjectsFromFile: object is: 52
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 54 0
+readObjectsFromFile: object is: 54
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 56 0
+readObjectsFromFile: object is: 56
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 58 0
+readObjectsFromFile: object is: 58
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 60 0
+readObjectsFromFile: object is: 60
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 62 0
+readObjectsFromFile: object is: 62
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 64 0
+readObjectsFromFile: object is: 64
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 66 0
+readObjectsFromFile: object is: 66
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 68 0
+readObjectsFromFile: object is: 68
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 70 0
+readObjectsFromFile: object is: 70
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 72 0
+readObjectsFromFile: object is: 72
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 74 0
+readObjectsFromFile: object is: 74
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 76 0
+readObjectsFromFile: object is: 76
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 78 0
+readObjectsFromFile: object is: 78
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 80 0
+readObjectsFromFile: object is: 80
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 82 0
+readObjectsFromFile: object is: 82
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 84 0
+readObjectsFromFile: object is: 84
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 86 0
+readObjectsFromFile: object is: 86
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 88 0
+readObjectsFromFile: object is: 88
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 90 0
+readObjectsFromFile: object is: 90
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 92 0
+readObjectsFromFile: object is: 92
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 94 0
+readObjectsFromFile: object is: 94
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 96 0
+readObjectsFromFile: object is: 96
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 98 0
+readObjectsFromFile: object is: 98
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 100        0
+readObjectsFromFile: object is: 100
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 102        0
+readObjectsFromFile: object is: 102
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 104        0
+readObjectsFromFile: object is: 104
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 106        0
+readObjectsFromFile: object is: 106
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 108        0
+readObjectsFromFile: object is: 108
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 110        0
+readObjectsFromFile: object is: 110
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 112        0
+readObjectsFromFile: object is: 112
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 114        0
+readObjectsFromFile: object is: 114
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 116        0
+readObjectsFromFile: object is: 116
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 118        0
+readObjectsFromFile: object is: 118
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 120        0
+readObjectsFromFile: object is: 120
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 122        0
+readObjectsFromFile: object is: 122
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 124        0
+readObjectsFromFile: object is: 124
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 126        0
+readObjectsFromFile: object is: 126
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 128        0
+readObjectsFromFile: object is: 128
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 130        0
+readObjectsFromFile: object is: 130
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 132        0
+readObjectsFromFile: object is: 132
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 134        0
+readObjectsFromFile: object is: 134
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 136        0
+readObjectsFromFile: object is: 136
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 138        0
+readObjectsFromFile: object is: 138
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 140        0
+readObjectsFromFile: object is: 140
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 142        0
+readObjectsFromFile: object is: 142
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 144        0
+readObjectsFromFile: object is: 144
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 146        0
+readObjectsFromFile: object is: 146
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 148        0
+readObjectsFromFile: object is: 148
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 150        0
+readObjectsFromFile: object is: 150
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 152        0
+readObjectsFromFile: object is: 152
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 154        0
+readObjectsFromFile: object is: 154
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 156        0
+readObjectsFromFile: object is: 156
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 158        0
+readObjectsFromFile: object is: 158
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 160        0
+readObjectsFromFile: object is: 160
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 162        0
+readObjectsFromFile: object is: 162
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 164        0
+readObjectsFromFile: object is: 164
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 166        0
+readObjectsFromFile: object is: 166
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 168        0
+readObjectsFromFile: object is: 168
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 170        0
+readObjectsFromFile: object is: 170
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 172        0
+readObjectsFromFile: object is: 172
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 174        0
+readObjectsFromFile: object is: 174
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 176        0
+readObjectsFromFile: object is: 176
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 178        0
+readObjectsFromFile: object is: 178
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 180        0
+readObjectsFromFile: object is: 180
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 182        0
+readObjectsFromFile: object is: 182
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 184        0
+readObjectsFromFile: object is: 184
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 186        0
+readObjectsFromFile: object is: 186
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 188        0
+readObjectsFromFile: object is: 188
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 190        0
+readObjectsFromFile: object is: 190
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 192        0
+readObjectsFromFile: object is: 192
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 194        0
+readObjectsFromFile: object is: 194
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 196        0
+readObjectsFromFile: object is: 196
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 198        0
+readObjectsFromFile: object is: 198
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 200        0
+readObjectsFromFile: object is: 200
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 202        0
+readObjectsFromFile: object is: 202
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 204        0
+readObjectsFromFile: object is: 204
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 206        0
+readObjectsFromFile: object is: 206
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 208        0
+readObjectsFromFile: object is: 208
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 210        0
+readObjectsFromFile: object is: 210
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 212        0
+readObjectsFromFile: object is: 212
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 214        0
+readObjectsFromFile: object is: 214
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 216        0
+readObjectsFromFile: object is: 216
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 218        0
+readObjectsFromFile: object is: 218
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 220        0
+readObjectsFromFile: object is: 220
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 222        0
+readObjectsFromFile: object is: 222
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 224        0
+readObjectsFromFile: object is: 224
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 226        0
+readObjectsFromFile: object is: 226
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 228        0
+readObjectsFromFile: object is: 228
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 230        0
+readObjectsFromFile: object is: 230
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 232        0
+readObjectsFromFile: object is: 232
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 234        0
+readObjectsFromFile: object is: 234
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 236        0
+readObjectsFromFile: object is: 236
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 238        0
+readObjectsFromFile: object is: 238
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 240        0
+readObjectsFromFile: object is: 240
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 242        0
+readObjectsFromFile: object is: 242
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 244        0
+readObjectsFromFile: object is: 244
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 246        0
+readObjectsFromFile: object is: 246
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 248        0
+readObjectsFromFile: object is: 248
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 250        0
+readObjectsFromFile: object is: 250
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 252        0
+readObjectsFromFile: object is: 252
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 254        0
+readObjectsFromFile: object is: 254
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 256        0
+readObjectsFromFile: object is: 256
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 258        0
+readObjectsFromFile: object is: 258
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 260        0
+readObjectsFromFile: object is: 260
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 262        0
+readObjectsFromFile: object is: 262
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 264        0
+readObjectsFromFile: object is: 264
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 266        0
+readObjectsFromFile: object is: 266
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 268        0
+readObjectsFromFile: object is: 268
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 270        0
+readObjectsFromFile: object is: 270
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 272        0
+readObjectsFromFile: object is: 272
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 274        0
+readObjectsFromFile: object is: 274
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 276        0
+readObjectsFromFile: object is: 276
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 278        0
+readObjectsFromFile: object is: 278
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 280        0
+readObjectsFromFile: object is: 280
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 282        0
+readObjectsFromFile: object is: 282
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 284        0
+readObjectsFromFile: object is: 284
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 286        0
+readObjectsFromFile: object is: 286
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 288        0
+readObjectsFromFile: object is: 288
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 290        0
+readObjectsFromFile: object is: 290
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 292        0
+readObjectsFromFile: object is: 292
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 294        0
+readObjectsFromFile: object is: 294
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 296        0
+readObjectsFromFile: object is: 296
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 298        0
+readObjectsFromFile: object is: 298
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 300        0
+readObjectsFromFile: object is: 300
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 302        0
+readObjectsFromFile: object is: 302
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 304        0
+readObjectsFromFile: object is: 304
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 306        0
+readObjectsFromFile: object is: 306
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 308        0
+readObjectsFromFile: object is: 308
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 310        0
+readObjectsFromFile: object is: 310
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 312        0
+readObjectsFromFile: object is: 312
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 314        0
+readObjectsFromFile: object is: 314
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 316        0
+readObjectsFromFile: object is: 316
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 318        0
+readObjectsFromFile: object is: 318
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 320        0
+readObjectsFromFile: object is: 320
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 322        0
+readObjectsFromFile: object is: 322
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 324        0
+readObjectsFromFile: object is: 324
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 326        0
+readObjectsFromFile: object is: 326
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 328        0
+readObjectsFromFile: object is: 328
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 330        0
+readObjectsFromFile: object is: 330
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 332        0
+readObjectsFromFile: object is: 332
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 334        0
+readObjectsFromFile: object is: 334
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 336        0
+readObjectsFromFile: object is: 336
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 338        0
+readObjectsFromFile: object is: 338
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 340        0
+readObjectsFromFile: object is: 340
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 342        0
+readObjectsFromFile: object is: 342
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 344        0
+readObjectsFromFile: object is: 344
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 346        0
+readObjectsFromFile: object is: 346
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 348        0
+readObjectsFromFile: object is: 348
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 350        0
+readObjectsFromFile: object is: 350
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 352        0
+readObjectsFromFile: object is: 352
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 354        0
+readObjectsFromFile: object is: 354
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 356        0
+readObjectsFromFile: object is: 356
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 358        0
+readObjectsFromFile: object is: 358
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 360        0
+readObjectsFromFile: object is: 360
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 362        0
+readObjectsFromFile: object is: 362
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 364        0
+readObjectsFromFile: object is: 364
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 366        0
+readObjectsFromFile: object is: 366
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 368        0
+readObjectsFromFile: object is: 368
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 370        0
+readObjectsFromFile: object is: 370
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 372        0
+readObjectsFromFile: object is: 372
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 374        0
+readObjectsFromFile: object is: 374
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 376        0
+readObjectsFromFile: object is: 376
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 378        0
+readObjectsFromFile: object is: 378
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 380        0
+readObjectsFromFile: object is: 380
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 382        0
+readObjectsFromFile: object is: 382
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 384        0
+readObjectsFromFile: object is: 384
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 386        0
+readObjectsFromFile: object is: 386
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 388        0
+readObjectsFromFile: object is: 388
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 390        0
+readObjectsFromFile: object is: 390
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 392        0
+readObjectsFromFile: object is: 392
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 394        0
+readObjectsFromFile: object is: 394
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 396        0
+readObjectsFromFile: object is: 396
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 398        0
+readObjectsFromFile: object is: 398
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 400        0
+readObjectsFromFile: object is: 400
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 402        0
+readObjectsFromFile: object is: 402
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 404        0
+readObjectsFromFile: object is: 404
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 406        0
+readObjectsFromFile: object is: 406
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 408        0
+readObjectsFromFile: object is: 408
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 410        0
+readObjectsFromFile: object is: 410
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 412        0
+readObjectsFromFile: object is: 412
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 414        0
+readObjectsFromFile: object is: 414
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 416        0
+readObjectsFromFile: object is: 416
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 418        0
+readObjectsFromFile: object is: 418
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 420        0
+readObjectsFromFile: object is: 420
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 422        0
+readObjectsFromFile: object is: 422
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 424        0
+readObjectsFromFile: object is: 424
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 426        0
+readObjectsFromFile: object is: 426
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 428        0
+readObjectsFromFile: object is: 428
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 430        0
+readObjectsFromFile: object is: 430
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 432        0
+readObjectsFromFile: object is: 432
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 434        0
+readObjectsFromFile: object is: 434
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 436        0
+readObjectsFromFile: object is: 436
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 438        0
+readObjectsFromFile: object is: 438
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 440        0
+readObjectsFromFile: object is: 440
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 442        0
+readObjectsFromFile: object is: 442
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 444        0
+readObjectsFromFile: object is: 444
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 446        0
+readObjectsFromFile: object is: 446
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 448        0
+readObjectsFromFile: object is: 448
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 450        0
+readObjectsFromFile: object is: 450
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 452        0
+readObjectsFromFile: object is: 452
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 454        0
+readObjectsFromFile: object is: 454
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 456        0
+readObjectsFromFile: object is: 456
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 458        0
+readObjectsFromFile: object is: 458
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 460        0
+readObjectsFromFile: object is: 460
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 462        0
+readObjectsFromFile: object is: 462
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 464        0
+readObjectsFromFile: object is: 464
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 466        0
+readObjectsFromFile: object is: 466
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 468        0
+readObjectsFromFile: object is: 468
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 470        0
+readObjectsFromFile: object is: 470
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 472        0
+readObjectsFromFile: object is: 472
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 474        0
+readObjectsFromFile: object is: 474
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 476        0
+readObjectsFromFile: object is: 476
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 478        0
+readObjectsFromFile: object is: 478
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 480        0
+readObjectsFromFile: object is: 480
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 482        0
+readObjectsFromFile: object is: 482
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 484        0
+readObjectsFromFile: object is: 484
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 486        0
+readObjectsFromFile: object is: 486
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 488        0
+readObjectsFromFile: object is: 488
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 490        0
+readObjectsFromFile: object is: 490
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 492        0
+readObjectsFromFile: object is: 492
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 494        0
+readObjectsFromFile: object is: 494
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 496        0
+readObjectsFromFile: object is: 496
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 498        0
+readObjectsFromFile: object is: 498
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 500        0
+readObjectsFromFile: object is: 500
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 502        0
+readObjectsFromFile: object is: 502
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 504        0
+readObjectsFromFile: object is: 504
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 506        0
+readObjectsFromFile: object is: 506
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 508        0
+readObjectsFromFile: object is: 508
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 510        0
+readObjectsFromFile: object is: 510
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 512        0
+readObjectsFromFile: object is: 512
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 514        0
+readObjectsFromFile: object is: 514
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 516        0
+readObjectsFromFile: object is: 516
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 518        0
+readObjectsFromFile: object is: 518
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 520        0
+readObjectsFromFile: object is: 520
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 522        0
+readObjectsFromFile: object is: 522
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 524        0
+readObjectsFromFile: object is: 524
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 526        0
+readObjectsFromFile: object is: 526
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 528        0
+readObjectsFromFile: object is: 528
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 530        0
+readObjectsFromFile: object is: 530
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 532        0
+readObjectsFromFile: object is: 532
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 534        0
+readObjectsFromFile: object is: 534
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 536        0
+readObjectsFromFile: object is: 536
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 538        0
+readObjectsFromFile: object is: 538
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 540        0
+readObjectsFromFile: object is: 540
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 542        0
+readObjectsFromFile: object is: 542
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 544        0
+readObjectsFromFile: object is: 544
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 546        0
+readObjectsFromFile: object is: 546
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 548        0
+readObjectsFromFile: object is: 548
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 550        0
+readObjectsFromFile: object is: 550
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 552        0
+readObjectsFromFile: object is: 552
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 554        0
+readObjectsFromFile: object is: 554
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 556        0
+readObjectsFromFile: object is: 556
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 558        0
+readObjectsFromFile: object is: 558
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 560        0
+readObjectsFromFile: object is: 560
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 562        0
+readObjectsFromFile: object is: 562
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 564        0
+readObjectsFromFile: object is: 564
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 566        0
+readObjectsFromFile: object is: 566
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 568        0
+readObjectsFromFile: object is: 568
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 570        0
+readObjectsFromFile: object is: 570
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 572        0
+readObjectsFromFile: object is: 572
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 574        0
+readObjectsFromFile: object is: 574
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 576        0
+readObjectsFromFile: object is: 576
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 578        0
+readObjectsFromFile: object is: 578
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 580        0
+readObjectsFromFile: object is: 580
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 582        0
+readObjectsFromFile: object is: 582
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 584        0
+readObjectsFromFile: object is: 584
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 586        0
+readObjectsFromFile: object is: 586
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 588        0
+readObjectsFromFile: object is: 588
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 590        0
+readObjectsFromFile: object is: 590
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 592        0
+readObjectsFromFile: object is: 592
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 594        0
+readObjectsFromFile: object is: 594
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 596        0
+readObjectsFromFile: object is: 596
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 598        0
+readObjectsFromFile: object is: 598
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 600        0
+readObjectsFromFile: object is: 600
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 602        0
+readObjectsFromFile: object is: 602
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 604        0
+readObjectsFromFile: object is: 604
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 606        0
+readObjectsFromFile: object is: 606
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 608        0
+readObjectsFromFile: object is: 608
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 610        0
+readObjectsFromFile: object is: 610
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 612        0
+readObjectsFromFile: object is: 612
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 614        0
+readObjectsFromFile: object is: 614
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 616        0
+readObjectsFromFile: object is: 616
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 618        0
+readObjectsFromFile: object is: 618
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 620        0
+readObjectsFromFile: object is: 620
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 622        0
+readObjectsFromFile: object is: 622
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 624        0
+readObjectsFromFile: object is: 624
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 626        0
+readObjectsFromFile: object is: 626
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 628        0
+readObjectsFromFile: object is: 628
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 630        0
+readObjectsFromFile: object is: 630
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 632        0
+readObjectsFromFile: object is: 632
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 634        0
+readObjectsFromFile: object is: 634
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 636        0
+readObjectsFromFile: object is: 636
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 638        0
+readObjectsFromFile: object is: 638
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 640        0
+readObjectsFromFile: object is: 640
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 642        0
+readObjectsFromFile: object is: 642
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 644        0
+readObjectsFromFile: object is: 644
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 646        0
+readObjectsFromFile: object is: 646
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 648        0
+readObjectsFromFile: object is: 648
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 650        0
+readObjectsFromFile: object is: 650
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 652        0
+readObjectsFromFile: object is: 652
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 654        0
+readObjectsFromFile: object is: 654
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 656        0
+readObjectsFromFile: object is: 656
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 658        0
+readObjectsFromFile: object is: 658
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 660        0
+readObjectsFromFile: object is: 660
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 662        0
+readObjectsFromFile: object is: 662
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 664        0
+readObjectsFromFile: object is: 664
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 666        0
+readObjectsFromFile: object is: 666
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 668        0
+readObjectsFromFile: object is: 668
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 670        0
+readObjectsFromFile: object is: 670
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 672        0
+readObjectsFromFile: object is: 672
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 674        0
+readObjectsFromFile: object is: 674
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 676        0
+readObjectsFromFile: object is: 676
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 678        0
+readObjectsFromFile: object is: 678
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 680        0
+readObjectsFromFile: object is: 680
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 682        0
+readObjectsFromFile: object is: 682
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 684        0
+readObjectsFromFile: object is: 684
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 686        0
+readObjectsFromFile: object is: 686
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 688        0
+readObjectsFromFile: object is: 688
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 690        0
+readObjectsFromFile: object is: 690
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 692        0
+readObjectsFromFile: object is: 692
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 694        0
+readObjectsFromFile: object is: 694
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 696        0
+readObjectsFromFile: object is: 696
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 698        0
+readObjectsFromFile: object is: 698
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 700        0
+readObjectsFromFile: object is: 700
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 702        0
+readObjectsFromFile: object is: 702
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 704        0
+readObjectsFromFile: object is: 704
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 706        0
+readObjectsFromFile: object is: 706
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 708        0
+readObjectsFromFile: object is: 708
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 710        0
+readObjectsFromFile: object is: 710
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 712        0
+readObjectsFromFile: object is: 712
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 714        0
+readObjectsFromFile: object is: 714
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 716        0
+readObjectsFromFile: object is: 716
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 718        0
+readObjectsFromFile: object is: 718
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 720        0
+readObjectsFromFile: object is: 720
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 722        0
+readObjectsFromFile: object is: 722
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 724        0
+readObjectsFromFile: object is: 724
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 726        0
+readObjectsFromFile: object is: 726
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 728        0
+readObjectsFromFile: object is: 728
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 730        0
+readObjectsFromFile: object is: 730
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 732        0
+readObjectsFromFile: object is: 732
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 734        0
+readObjectsFromFile: object is: 734
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 736        0
+readObjectsFromFile: object is: 736
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 738        0
+readObjectsFromFile: object is: 738
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 740        0
+readObjectsFromFile: object is: 740
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 742        0
+readObjectsFromFile: object is: 742
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 744        0
+readObjectsFromFile: object is: 744
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 746        0
+readObjectsFromFile: object is: 746
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 748        0
+readObjectsFromFile: object is: 748
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 750        0
+readObjectsFromFile: object is: 750
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 752        0
+readObjectsFromFile: object is: 752
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 754        0
+readObjectsFromFile: object is: 754
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 756        0
+readObjectsFromFile: object is: 756
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 758        0
+readObjectsFromFile: object is: 758
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 760        0
+readObjectsFromFile: object is: 760
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 762        0
+readObjectsFromFile: object is: 762
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 764        0
+readObjectsFromFile: object is: 764
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 766        0
+readObjectsFromFile: object is: 766
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 768        0
+readObjectsFromFile: object is: 768
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 770        0
+readObjectsFromFile: object is: 770
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 772        0
+readObjectsFromFile: object is: 772
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 774        0
+readObjectsFromFile: object is: 774
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 776        0
+readObjectsFromFile: object is: 776
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 778        0
+readObjectsFromFile: object is: 778
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 780        0
+readObjectsFromFile: object is: 780
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 782        0
+readObjectsFromFile: object is: 782
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 784        0
+readObjectsFromFile: object is: 784
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 786        0
+readObjectsFromFile: object is: 786
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 788        0
+readObjectsFromFile: object is: 788
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 790        0
+readObjectsFromFile: object is: 790
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 792        0
+readObjectsFromFile: object is: 792
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 794        0
+readObjectsFromFile: object is: 794
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 796        0
+readObjectsFromFile: object is: 796
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 798        0
+readObjectsFromFile: object is: 798
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 800        0
+readObjectsFromFile: object is: 800
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 802        0
+readObjectsFromFile: object is: 802
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 804        0
+readObjectsFromFile: object is: 804
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 806        0
+readObjectsFromFile: object is: 806
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 808        0
+readObjectsFromFile: object is: 808
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 810        0
+readObjectsFromFile: object is: 810
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 812        0
+readObjectsFromFile: object is: 812
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 814        0
+readObjectsFromFile: object is: 814
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 816        0
+readObjectsFromFile: object is: 816
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 818        0
+readObjectsFromFile: object is: 818
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 820        0
+readObjectsFromFile: object is: 820
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 822        0
+readObjectsFromFile: object is: 822
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 824        0
+readObjectsFromFile: object is: 824
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 826        0
+readObjectsFromFile: object is: 826
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 828        0
+readObjectsFromFile: object is: 828
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 830        0
+readObjectsFromFile: object is: 830
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 832        0
+readObjectsFromFile: object is: 832
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 834        0
+readObjectsFromFile: object is: 834
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 836        0
+readObjectsFromFile: object is: 836
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 838        0
+readObjectsFromFile: object is: 838
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 840        0
+readObjectsFromFile: object is: 840
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 842        0
+readObjectsFromFile: object is: 842
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 844        0
+readObjectsFromFile: object is: 844
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 846        0
+readObjectsFromFile: object is: 846
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 848        0
+readObjectsFromFile: object is: 848
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 850        0
+readObjectsFromFile: object is: 850
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 852        0
+readObjectsFromFile: object is: 852
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 854        0
+readObjectsFromFile: object is: 854
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 856        0
+readObjectsFromFile: object is: 856
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 858        0
+readObjectsFromFile: object is: 858
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 860        0
+readObjectsFromFile: object is: 860
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 862        0
+readObjectsFromFile: object is: 862
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 864        0
+readObjectsFromFile: object is: 864
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 866        0
+readObjectsFromFile: object is: 866
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 868        0
+readObjectsFromFile: object is: 868
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 870        0
+readObjectsFromFile: object is: 870
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 872        0
+readObjectsFromFile: object is: 872
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 874        0
+readObjectsFromFile: object is: 874
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 876        0
+readObjectsFromFile: object is: 876
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 878        0
+readObjectsFromFile: object is: 878
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 880        0
+readObjectsFromFile: object is: 880
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 882        0
+readObjectsFromFile: object is: 882
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 884        0
+readObjectsFromFile: object is: 884
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 886        0
+readObjectsFromFile: object is: 886
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 888        0
+readObjectsFromFile: object is: 888
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 890        0
+readObjectsFromFile: object is: 890
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 892        0
+readObjectsFromFile: object is: 892
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 894        0
+readObjectsFromFile: object is: 894
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 896        0
+readObjectsFromFile: object is: 896
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 898        0
+readObjectsFromFile: object is: 898
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 900        0
+readObjectsFromFile: object is: 900
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 902        0
+readObjectsFromFile: object is: 902
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 904        0
+readObjectsFromFile: object is: 904
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 906        0
+readObjectsFromFile: object is: 906
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 908        0
+readObjectsFromFile: object is: 908
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 910        0
+readObjectsFromFile: object is: 910
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 912        0
+readObjectsFromFile: object is: 912
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 914        0
+readObjectsFromFile: object is: 914
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 916        0
+readObjectsFromFile: object is: 916
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 918        0
+readObjectsFromFile: object is: 918
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 920        0
+readObjectsFromFile: object is: 920
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 922        0
+readObjectsFromFile: object is: 922
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 924        0
+readObjectsFromFile: object is: 924
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 926        0
+readObjectsFromFile: object is: 926
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 928        0
+readObjectsFromFile: object is: 928
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 930        0
+readObjectsFromFile: object is: 930
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 932        0
+readObjectsFromFile: object is: 932
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 934        0
+readObjectsFromFile: object is: 934
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 936        0
+readObjectsFromFile: object is: 936
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 938        0
+readObjectsFromFile: object is: 938
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 940        0
+readObjectsFromFile: object is: 940
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 942        0
+readObjectsFromFile: object is: 942
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 944        0
+readObjectsFromFile: object is: 944
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 946        0
+readObjectsFromFile: object is: 946
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 948        0
+readObjectsFromFile: object is: 948
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 950        0
+readObjectsFromFile: object is: 950
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 952        0
+readObjectsFromFile: object is: 952
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 954        0
+readObjectsFromFile: object is: 954
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 956        0
+readObjectsFromFile: object is: 956
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 958        0
+readObjectsFromFile: object is: 958
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 960        0
+readObjectsFromFile: object is: 960
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 962        0
+readObjectsFromFile: object is: 962
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 964        0
+readObjectsFromFile: object is: 964
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 966        0
+readObjectsFromFile: object is: 966
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 968        0
+readObjectsFromFile: object is: 968
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 970        0
+readObjectsFromFile: object is: 970
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 972        0
+readObjectsFromFile: object is: 972
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 974        0
+readObjectsFromFile: object is: 974
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 976        0
+readObjectsFromFile: object is: 976
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 978        0
+readObjectsFromFile: object is: 978
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 980        0
+readObjectsFromFile: object is: 980
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 982        0
+readObjectsFromFile: object is: 982
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 984        0
+readObjectsFromFile: object is: 984
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 986        0
+readObjectsFromFile: object is: 986
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 988        0
+readObjectsFromFile: object is: 988
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 990        0
+readObjectsFromFile: object is: 990
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 992        0
+readObjectsFromFile: object is: 992
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 994        0
+readObjectsFromFile: object is: 994
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 996        0
+readObjectsFromFile: object is: 996
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 998        0
+readObjectsFromFile: object is: 998
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1000       0
+readObjectsFromFile: object is: 1000
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1002       0
+readObjectsFromFile: object is: 1002
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1004       0
+readObjectsFromFile: object is: 1004
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1006       0
+readObjectsFromFile: object is: 1006
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1008       0
+readObjectsFromFile: object is: 1008
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1010       0
+readObjectsFromFile: object is: 1010
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1012       0
+readObjectsFromFile: object is: 1012
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1014       0
+readObjectsFromFile: object is: 1014
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1016       0
+readObjectsFromFile: object is: 1016
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1018       0
+readObjectsFromFile: object is: 1018
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1020       0
+readObjectsFromFile: object is: 1020
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1022       0
+readObjectsFromFile: object is: 1022
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1024       0
+readObjectsFromFile: object is: 1024
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1026       0
+readObjectsFromFile: object is: 1026
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1028       0
+readObjectsFromFile: object is: 1028
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1030       0
+readObjectsFromFile: object is: 1030
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1032       0
+readObjectsFromFile: object is: 1032
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1034       0
+readObjectsFromFile: object is: 1034
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1036       0
+readObjectsFromFile: object is: 1036
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1038       0
+readObjectsFromFile: object is: 1038
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1040       0
+readObjectsFromFile: object is: 1040
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1042       0
+readObjectsFromFile: object is: 1042
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1044       0
+readObjectsFromFile: object is: 1044
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1046       0
+readObjectsFromFile: object is: 1046
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1048       0
+readObjectsFromFile: object is: 1048
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1050       0
+readObjectsFromFile: object is: 1050
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1052       0
+readObjectsFromFile: object is: 1052
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1054       0
+readObjectsFromFile: object is: 1054
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1056       0
+readObjectsFromFile: object is: 1056
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1058       0
+readObjectsFromFile: object is: 1058
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1060       0
+readObjectsFromFile: object is: 1060
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1062       0
+readObjectsFromFile: object is: 1062
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1064       0
+readObjectsFromFile: object is: 1064
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1066       0
+readObjectsFromFile: object is: 1066
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1068       0
+readObjectsFromFile: object is: 1068
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1070       0
+readObjectsFromFile: object is: 1070
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1072       0
+readObjectsFromFile: object is: 1072
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1074       0
+readObjectsFromFile: object is: 1074
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1076       0
+readObjectsFromFile: object is: 1076
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1078       0
+readObjectsFromFile: object is: 1078
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1080       0
+readObjectsFromFile: object is: 1080
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1082       0
+readObjectsFromFile: object is: 1082
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1084       0
+readObjectsFromFile: object is: 1084
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1086       0
+readObjectsFromFile: object is: 1086
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1088       0
+readObjectsFromFile: object is: 1088
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1090       0
+readObjectsFromFile: object is: 1090
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1092       0
+readObjectsFromFile: object is: 1092
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1094       0
+readObjectsFromFile: object is: 1094
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1096       0
+readObjectsFromFile: object is: 1096
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1098       0
+readObjectsFromFile: object is: 1098
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1100       0
+readObjectsFromFile: object is: 1100
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1102       0
+readObjectsFromFile: object is: 1102
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1104       0
+readObjectsFromFile: object is: 1104
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1106       0
+readObjectsFromFile: object is: 1106
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1108       0
+readObjectsFromFile: object is: 1108
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1110       0
+readObjectsFromFile: object is: 1110
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1112       0
+readObjectsFromFile: object is: 1112
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1114       0
+readObjectsFromFile: object is: 1114
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1116       0
+readObjectsFromFile: object is: 1116
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1118       0
+readObjectsFromFile: object is: 1118
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1120       0
+readObjectsFromFile: object is: 1120
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1122       0
+readObjectsFromFile: object is: 1122
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1124       0
+readObjectsFromFile: object is: 1124
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1126       0
+readObjectsFromFile: object is: 1126
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1128       0
+readObjectsFromFile: object is: 1128
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1130       0
+readObjectsFromFile: object is: 1130
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1132       0
+readObjectsFromFile: object is: 1132
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1134       0
+readObjectsFromFile: object is: 1134
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1136       0
+readObjectsFromFile: object is: 1136
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1138       0
+readObjectsFromFile: object is: 1138
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1140       0
+readObjectsFromFile: object is: 1140
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1142       0
+readObjectsFromFile: object is: 1142
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1144       0
+readObjectsFromFile: object is: 1144
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1146       0
+readObjectsFromFile: object is: 1146
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1148       0
+readObjectsFromFile: object is: 1148
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1150       0
+readObjectsFromFile: object is: 1150
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1152       0
+readObjectsFromFile: object is: 1152
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1154       0
+readObjectsFromFile: object is: 1154
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1156       0
+readObjectsFromFile: object is: 1156
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1158       0
+readObjectsFromFile: object is: 1158
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1160       0
+readObjectsFromFile: object is: 1160
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1162       0
+readObjectsFromFile: object is: 1162
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1164       0
+readObjectsFromFile: object is: 1164
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1166       0
+readObjectsFromFile: object is: 1166
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1168       0
+readObjectsFromFile: object is: 1168
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1170       0
+readObjectsFromFile: object is: 1170
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1172       0
+readObjectsFromFile: object is: 1172
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1174       0
+readObjectsFromFile: object is: 1174
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1176       0
+readObjectsFromFile: object is: 1176
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1178       0
+readObjectsFromFile: object is: 1178
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1180       0
+readObjectsFromFile: object is: 1180
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1182       0
+readObjectsFromFile: object is: 1182
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1184       0
+readObjectsFromFile: object is: 1184
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1186       0
+readObjectsFromFile: object is: 1186
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1188       0
+readObjectsFromFile: object is: 1188
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1190       0
+readObjectsFromFile: object is: 1190
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1192       0
+readObjectsFromFile: object is: 1192
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1194       0
+readObjectsFromFile: object is: 1194
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1196       0
+readObjectsFromFile: object is: 1196
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1198       0
+readObjectsFromFile: object is: 1198
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1200       0
+readObjectsFromFile: object is: 1200
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1202       0
+readObjectsFromFile: object is: 1202
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1204       0
+readObjectsFromFile: object is: 1204
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1206       0
+readObjectsFromFile: object is: 1206
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1208       0
+readObjectsFromFile: object is: 1208
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1210       0
+readObjectsFromFile: object is: 1210
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1212       0
+readObjectsFromFile: object is: 1212
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1214       0
+readObjectsFromFile: object is: 1214
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1216       0
+readObjectsFromFile: object is: 1216
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1218       0
+readObjectsFromFile: object is: 1218
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1220       0
+readObjectsFromFile: object is: 1220
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1222       0
+readObjectsFromFile: object is: 1222
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1224       0
+readObjectsFromFile: object is: 1224
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1226       0
+readObjectsFromFile: object is: 1226
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1228       0
+readObjectsFromFile: object is: 1228
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1230       0
+readObjectsFromFile: object is: 1230
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1232       0
+readObjectsFromFile: object is: 1232
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1234       0
+readObjectsFromFile: object is: 1234
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1236       0
+readObjectsFromFile: object is: 1236
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1238       0
+readObjectsFromFile: object is: 1238
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1240       0
+readObjectsFromFile: object is: 1240
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1242       0
+readObjectsFromFile: object is: 1242
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1244       0
+readObjectsFromFile: object is: 1244
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1246       0
+readObjectsFromFile: object is: 1246
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1248       0
+readObjectsFromFile: object is: 1248
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1250       0
+readObjectsFromFile: object is: 1250
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1252       0
+readObjectsFromFile: object is: 1252
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1254       0
+readObjectsFromFile: object is: 1254
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1256       0
+readObjectsFromFile: object is: 1256
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1258       0
+readObjectsFromFile: object is: 1258
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1260       0
+readObjectsFromFile: object is: 1260
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1262       0
+readObjectsFromFile: object is: 1262
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1264       0
+readObjectsFromFile: object is: 1264
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1266       0
+readObjectsFromFile: object is: 1266
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1268       0
+readObjectsFromFile: object is: 1268
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1270       0
+readObjectsFromFile: object is: 1270
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1272       0
+readObjectsFromFile: object is: 1272
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1274       0
+readObjectsFromFile: object is: 1274
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1276       0
+readObjectsFromFile: object is: 1276
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1278       0
+readObjectsFromFile: object is: 1278
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1280       0
+readObjectsFromFile: object is: 1280
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1282       0
+readObjectsFromFile: object is: 1282
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1284       0
+readObjectsFromFile: object is: 1284
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1286       0
+readObjectsFromFile: object is: 1286
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1288       0
+readObjectsFromFile: object is: 1288
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1290       0
+readObjectsFromFile: object is: 1290
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1292       0
+readObjectsFromFile: object is: 1292
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1294       0
+readObjectsFromFile: object is: 1294
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1296       0
+readObjectsFromFile: object is: 1296
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1298       0
+readObjectsFromFile: object is: 1298
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1300       0
+readObjectsFromFile: object is: 1300
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1302       0
+readObjectsFromFile: object is: 1302
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1304       0
+readObjectsFromFile: object is: 1304
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1306       0
+readObjectsFromFile: object is: 1306
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1308       0
+readObjectsFromFile: object is: 1308
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1310       0
+readObjectsFromFile: object is: 1310
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1312       0
+readObjectsFromFile: object is: 1312
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1314       0
+readObjectsFromFile: object is: 1314
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1316       0
+readObjectsFromFile: object is: 1316
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1318       0
+readObjectsFromFile: object is: 1318
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1320       0
+readObjectsFromFile: object is: 1320
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1322       0
+readObjectsFromFile: object is: 1322
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1324       0
+readObjectsFromFile: object is: 1324
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1326       0
+readObjectsFromFile: object is: 1326
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1328       0
+readObjectsFromFile: object is: 1328
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1330       0
+readObjectsFromFile: object is: 1330
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1332       0
+readObjectsFromFile: object is: 1332
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1334       0
+readObjectsFromFile: object is: 1334
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1336       0
+readObjectsFromFile: object is: 1336
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1338       0
+readObjectsFromFile: object is: 1338
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1340       0
+readObjectsFromFile: object is: 1340
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1342       0
+readObjectsFromFile: object is: 1342
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1344       0
+readObjectsFromFile: object is: 1344
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1346       0
+readObjectsFromFile: object is: 1346
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1348       0
+readObjectsFromFile: object is: 1348
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1350       0
+readObjectsFromFile: object is: 1350
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1352       0
+readObjectsFromFile: object is: 1352
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1354       0
+readObjectsFromFile: object is: 1354
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1356       0
+readObjectsFromFile: object is: 1356
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1358       0
+readObjectsFromFile: object is: 1358
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1360       0
+readObjectsFromFile: object is: 1360
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1362       0
+readObjectsFromFile: object is: 1362
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1364       0
+readObjectsFromFile: object is: 1364
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1366       0
+readObjectsFromFile: object is: 1366
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1368       0
+readObjectsFromFile: object is: 1368
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1370       0
+readObjectsFromFile: object is: 1370
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1372       0
+readObjectsFromFile: object is: 1372
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1374       0
+readObjectsFromFile: object is: 1374
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1376       0
+readObjectsFromFile: object is: 1376
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1378       0
+readObjectsFromFile: object is: 1378
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1380       0
+readObjectsFromFile: object is: 1380
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1382       0
+readObjectsFromFile: object is: 1382
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1384       0
+readObjectsFromFile: object is: 1384
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1386       0
+readObjectsFromFile: object is: 1386
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1388       0
+readObjectsFromFile: object is: 1388
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1390       0
+readObjectsFromFile: object is: 1390
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1392       0
+readObjectsFromFile: object is: 1392
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1394       0
+readObjectsFromFile: object is: 1394
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1396       0
+readObjectsFromFile: object is: 1396
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1398       0
+readObjectsFromFile: object is: 1398
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1400       0
+readObjectsFromFile: object is: 1400
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1402       0
+readObjectsFromFile: object is: 1402
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1404       0
+readObjectsFromFile: object is: 1404
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1406       0
+readObjectsFromFile: object is: 1406
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1408       0
+readObjectsFromFile: object is: 1408
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1410       0
+readObjectsFromFile: object is: 1410
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1412       0
+readObjectsFromFile: object is: 1412
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1414       0
+readObjectsFromFile: object is: 1414
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1416       0
+readObjectsFromFile: object is: 1416
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1418       0
+readObjectsFromFile: object is: 1418
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1420       0
+readObjectsFromFile: object is: 1420
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1422       0
+readObjectsFromFile: object is: 1422
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1424       0
+readObjectsFromFile: object is: 1424
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1426       0
+readObjectsFromFile: object is: 1426
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1428       0
+readObjectsFromFile: object is: 1428
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1430       0
+readObjectsFromFile: object is: 1430
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1432       0
+readObjectsFromFile: object is: 1432
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1434       0
+readObjectsFromFile: object is: 1434
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1436       0
+readObjectsFromFile: object is: 1436
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1438       0
+readObjectsFromFile: object is: 1438
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1440       0
+readObjectsFromFile: object is: 1440
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1442       0
+readObjectsFromFile: object is: 1442
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1444       0
+readObjectsFromFile: object is: 1444
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1446       0
+readObjectsFromFile: object is: 1446
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1448       0
+readObjectsFromFile: object is: 1448
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1450       0
+readObjectsFromFile: object is: 1450
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1452       0
+readObjectsFromFile: object is: 1452
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1454       0
+readObjectsFromFile: object is: 1454
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1456       0
+readObjectsFromFile: object is: 1456
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1458       0
+readObjectsFromFile: object is: 1458
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1460       0
+readObjectsFromFile: object is: 1460
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1462       0
+readObjectsFromFile: object is: 1462
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1464       0
+readObjectsFromFile: object is: 1464
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1466       0
+readObjectsFromFile: object is: 1466
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1468       0
+readObjectsFromFile: object is: 1468
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1470       0
+readObjectsFromFile: object is: 1470
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1472       0
+readObjectsFromFile: object is: 1472
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1474       0
+readObjectsFromFile: object is: 1474
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1476       0
+readObjectsFromFile: object is: 1476
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1478       0
+readObjectsFromFile: object is: 1478
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1480       0
+readObjectsFromFile: object is: 1480
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1482       0
+readObjectsFromFile: object is: 1482
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1484       0
+readObjectsFromFile: object is: 1484
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1486       0
+readObjectsFromFile: object is: 1486
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1488       0
+readObjectsFromFile: object is: 1488
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1490       0
+readObjectsFromFile: object is: 1490
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1492       0
+readObjectsFromFile: object is: 1492
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1494       0
+readObjectsFromFile: object is: 1494
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1496       0
+readObjectsFromFile: object is: 1496
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1498       0
+readObjectsFromFile: object is: 1498
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1500       0
+readObjectsFromFile: object is: 1500
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1502       0
+readObjectsFromFile: object is: 1502
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1504       0
+readObjectsFromFile: object is: 1504
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1506       0
+readObjectsFromFile: object is: 1506
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1508       0
+readObjectsFromFile: object is: 1508
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1510       0
+readObjectsFromFile: object is: 1510
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1512       0
+readObjectsFromFile: object is: 1512
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1514       0
+readObjectsFromFile: object is: 1514
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1516       0
+readObjectsFromFile: object is: 1516
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1518       0
+readObjectsFromFile: object is: 1518
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1520       0
+readObjectsFromFile: object is: 1520
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1522       0
+readObjectsFromFile: object is: 1522
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1524       0
+readObjectsFromFile: object is: 1524
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1526       0
+readObjectsFromFile: object is: 1526
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1528       0
+readObjectsFromFile: object is: 1528
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1530       0
+readObjectsFromFile: object is: 1530
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1532       0
+readObjectsFromFile: object is: 1532
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1534       0
+readObjectsFromFile: object is: 1534
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1536       0
+readObjectsFromFile: object is: 1536
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1538       0
+readObjectsFromFile: object is: 1538
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1540       0
+readObjectsFromFile: object is: 1540
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1542       0
+readObjectsFromFile: object is: 1542
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1544       0
+readObjectsFromFile: object is: 1544
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1546       0
+readObjectsFromFile: object is: 1546
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1548       0
+readObjectsFromFile: object is: 1548
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1550       0
+readObjectsFromFile: object is: 1550
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1552       0
+readObjectsFromFile: object is: 1552
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1554       0
+readObjectsFromFile: object is: 1554
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1556       0
+readObjectsFromFile: object is: 1556
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1558       0
+readObjectsFromFile: object is: 1558
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1560       0
+readObjectsFromFile: object is: 1560
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1562       0
+readObjectsFromFile: object is: 1562
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1564       0
+readObjectsFromFile: object is: 1564
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1566       0
+readObjectsFromFile: object is: 1566
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1568       0
+readObjectsFromFile: object is: 1568
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1570       0
+readObjectsFromFile: object is: 1570
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1572       0
+readObjectsFromFile: object is: 1572
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1574       0
+readObjectsFromFile: object is: 1574
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1576       0
+readObjectsFromFile: object is: 1576
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1578       0
+readObjectsFromFile: object is: 1578
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1580       0
+readObjectsFromFile: object is: 1580
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1582       0
+readObjectsFromFile: object is: 1582
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1584       0
+readObjectsFromFile: object is: 1584
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1586       0
+readObjectsFromFile: object is: 1586
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1588       0
+readObjectsFromFile: object is: 1588
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1590       0
+readObjectsFromFile: object is: 1590
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1592       0
+readObjectsFromFile: object is: 1592
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1594       0
+readObjectsFromFile: object is: 1594
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1596       0
+readObjectsFromFile: object is: 1596
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1598       0
+readObjectsFromFile: object is: 1598
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1600       0
+readObjectsFromFile: object is: 1600
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1602       0
+readObjectsFromFile: object is: 1602
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1604       0
+readObjectsFromFile: object is: 1604
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1606       0
+readObjectsFromFile: object is: 1606
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1608       0
+readObjectsFromFile: object is: 1608
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1610       0
+readObjectsFromFile: object is: 1610
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1612       0
+readObjectsFromFile: object is: 1612
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1614       0
+readObjectsFromFile: object is: 1614
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1616       0
+readObjectsFromFile: object is: 1616
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1618       0
+readObjectsFromFile: object is: 1618
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1620       0
+readObjectsFromFile: object is: 1620
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1622       0
+readObjectsFromFile: object is: 1622
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1624       0
+readObjectsFromFile: object is: 1624
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1626       0
+readObjectsFromFile: object is: 1626
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1628       0
+readObjectsFromFile: object is: 1628
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1630       0
+readObjectsFromFile: object is: 1630
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1632       0
+readObjectsFromFile: object is: 1632
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1634       0
+readObjectsFromFile: object is: 1634
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1636       0
+readObjectsFromFile: object is: 1636
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1638       0
+readObjectsFromFile: object is: 1638
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1640       0
+readObjectsFromFile: object is: 1640
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1642       0
+readObjectsFromFile: object is: 1642
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1644       0
+readObjectsFromFile: object is: 1644
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1646       0
+readObjectsFromFile: object is: 1646
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1648       0
+readObjectsFromFile: object is: 1648
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1650       0
+readObjectsFromFile: object is: 1650
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1652       0
+readObjectsFromFile: object is: 1652
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1654       0
+readObjectsFromFile: object is: 1654
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1656       0
+readObjectsFromFile: object is: 1656
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1658       0
+readObjectsFromFile: object is: 1658
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1660       0
+readObjectsFromFile: object is: 1660
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1662       0
+readObjectsFromFile: object is: 1662
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1664       0
+readObjectsFromFile: object is: 1664
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1666       0
+readObjectsFromFile: object is: 1666
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1668       0
+readObjectsFromFile: object is: 1668
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1670       0
+readObjectsFromFile: object is: 1670
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1672       0
+readObjectsFromFile: object is: 1672
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1674       0
+readObjectsFromFile: object is: 1674
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1676       0
+readObjectsFromFile: object is: 1676
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1678       0
+readObjectsFromFile: object is: 1678
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1680       0
+readObjectsFromFile: object is: 1680
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1682       0
+readObjectsFromFile: object is: 1682
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1684       0
+readObjectsFromFile: object is: 1684
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1686       0
+readObjectsFromFile: object is: 1686
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1688       0
+readObjectsFromFile: object is: 1688
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1690       0
+readObjectsFromFile: object is: 1690
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1692       0
+readObjectsFromFile: object is: 1692
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1694       0
+readObjectsFromFile: object is: 1694
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1696       0
+readObjectsFromFile: object is: 1696
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1698       0
+readObjectsFromFile: object is: 1698
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1700       0
+readObjectsFromFile: object is: 1700
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1702       0
+readObjectsFromFile: object is: 1702
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1704       0
+readObjectsFromFile: object is: 1704
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1706       0
+readObjectsFromFile: object is: 1706
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1708       0
+readObjectsFromFile: object is: 1708
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1710       0
+readObjectsFromFile: object is: 1710
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1712       0
+readObjectsFromFile: object is: 1712
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1714       0
+readObjectsFromFile: object is: 1714
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1716       0
+readObjectsFromFile: object is: 1716
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1718       0
+readObjectsFromFile: object is: 1718
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1720       0
+readObjectsFromFile: object is: 1720
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1722       0
+readObjectsFromFile: object is: 1722
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1724       0
+readObjectsFromFile: object is: 1724
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1726       0
+readObjectsFromFile: object is: 1726
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1728       0
+readObjectsFromFile: object is: 1728
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1730       0
+readObjectsFromFile: object is: 1730
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1732       0
+readObjectsFromFile: object is: 1732
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1734       0
+readObjectsFromFile: object is: 1734
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1736       0
+readObjectsFromFile: object is: 1736
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1738       0
+readObjectsFromFile: object is: 1738
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1740       0
+readObjectsFromFile: object is: 1740
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1742       0
+readObjectsFromFile: object is: 1742
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1744       0
+readObjectsFromFile: object is: 1744
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1746       0
+readObjectsFromFile: object is: 1746
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1748       0
+readObjectsFromFile: object is: 1748
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1750       0
+readObjectsFromFile: object is: 1750
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1752       0
+readObjectsFromFile: object is: 1752
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1754       0
+readObjectsFromFile: object is: 1754
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1756       0
+readObjectsFromFile: object is: 1756
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1758       0
+readObjectsFromFile: object is: 1758
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1760       0
+readObjectsFromFile: object is: 1760
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1762       0
+readObjectsFromFile: object is: 1762
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1764       0
+readObjectsFromFile: object is: 1764
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1766       0
+readObjectsFromFile: object is: 1766
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1768       0
+readObjectsFromFile: object is: 1768
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1770       0
+readObjectsFromFile: object is: 1770
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1772       0
+readObjectsFromFile: object is: 1772
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1774       0
+readObjectsFromFile: object is: 1774
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1776       0
+readObjectsFromFile: object is: 1776
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1778       0
+readObjectsFromFile: object is: 1778
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1780       0
+readObjectsFromFile: object is: 1780
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1782       0
+readObjectsFromFile: object is: 1782
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1784       0
+readObjectsFromFile: object is: 1784
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1786       0
+readObjectsFromFile: object is: 1786
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1788       0
+readObjectsFromFile: object is: 1788
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1790       0
+readObjectsFromFile: object is: 1790
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1792       0
+readObjectsFromFile: object is: 1792
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1794       0
+readObjectsFromFile: object is: 1794
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1796       0
+readObjectsFromFile: object is: 1796
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1798       0
+readObjectsFromFile: object is: 1798
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1800       0
+readObjectsFromFile: object is: 1800
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1802       0
+readObjectsFromFile: object is: 1802
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1804       0
+readObjectsFromFile: object is: 1804
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1806       0
+readObjectsFromFile: object is: 1806
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1808       0
+readObjectsFromFile: object is: 1808
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1810       0
+readObjectsFromFile: object is: 1810
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1812       0
+readObjectsFromFile: object is: 1812
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1814       0
+readObjectsFromFile: object is: 1814
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1816       0
+readObjectsFromFile: object is: 1816
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1818       0
+readObjectsFromFile: object is: 1818
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1820       0
+readObjectsFromFile: object is: 1820
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1822       0
+readObjectsFromFile: object is: 1822
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1824       0
+readObjectsFromFile: object is: 1824
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1826       0
+readObjectsFromFile: object is: 1826
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1828       0
+readObjectsFromFile: object is: 1828
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1830       0
+readObjectsFromFile: object is: 1830
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1832       0
+readObjectsFromFile: object is: 1832
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1834       0
+readObjectsFromFile: object is: 1834
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1836       0
+readObjectsFromFile: object is: 1836
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1838       0
+readObjectsFromFile: object is: 1838
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1840       0
+readObjectsFromFile: object is: 1840
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1842       0
+readObjectsFromFile: object is: 1842
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1844       0
+readObjectsFromFile: object is: 1844
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1846       0
+readObjectsFromFile: object is: 1846
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1848       0
+readObjectsFromFile: object is: 1848
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1850       0
+readObjectsFromFile: object is: 1850
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1852       0
+readObjectsFromFile: object is: 1852
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1854       0
+readObjectsFromFile: object is: 1854
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1856       0
+readObjectsFromFile: object is: 1856
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1858       0
+readObjectsFromFile: object is: 1858
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1860       0
+readObjectsFromFile: object is: 1860
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1862       0
+readObjectsFromFile: object is: 1862
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1864       0
+readObjectsFromFile: object is: 1864
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1866       0
+readObjectsFromFile: object is: 1866
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1868       0
+readObjectsFromFile: object is: 1868
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1870       0
+readObjectsFromFile: object is: 1870
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1872       0
+readObjectsFromFile: object is: 1872
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1874       0
+readObjectsFromFile: object is: 1874
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1876       0
+readObjectsFromFile: object is: 1876
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1878       0
+readObjectsFromFile: object is: 1878
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1880       0
+readObjectsFromFile: object is: 1880
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1882       0
+readObjectsFromFile: object is: 1882
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1884       0
+readObjectsFromFile: object is: 1884
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1886       0
+readObjectsFromFile: object is: 1886
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1888       0
+readObjectsFromFile: object is: 1888
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1890       0
+readObjectsFromFile: object is: 1890
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1892       0
+readObjectsFromFile: object is: 1892
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1894       0
+readObjectsFromFile: object is: 1894
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1896       0
+readObjectsFromFile: object is: 1896
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1898       0
+readObjectsFromFile: object is: 1898
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1900       0
+readObjectsFromFile: object is: 1900
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1902       0
+readObjectsFromFile: object is: 1902
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1904       0
+readObjectsFromFile: object is: 1904
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1906       0
+readObjectsFromFile: object is: 1906
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1908       0
+readObjectsFromFile: object is: 1908
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1910       0
+readObjectsFromFile: object is: 1910
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1912       0
+readObjectsFromFile: object is: 1912
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1914       0
+readObjectsFromFile: object is: 1914
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1916       0
+readObjectsFromFile: object is: 1916
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1918       0
+readObjectsFromFile: object is: 1918
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1920       0
+readObjectsFromFile: object is: 1920
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1922       0
+readObjectsFromFile: object is: 1922
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1924       0
+readObjectsFromFile: object is: 1924
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1926       0
+readObjectsFromFile: object is: 1926
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1928       0
+readObjectsFromFile: object is: 1928
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1930       0
+readObjectsFromFile: object is: 1930
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1932       0
+readObjectsFromFile: object is: 1932
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1934       0
+readObjectsFromFile: object is: 1934
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1936       0
+readObjectsFromFile: object is: 1936
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1938       0
+readObjectsFromFile: object is: 1938
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1940       0
+readObjectsFromFile: object is: 1940
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1942       0
+readObjectsFromFile: object is: 1942
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1944       0
+readObjectsFromFile: object is: 1944
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1946       0
+readObjectsFromFile: object is: 1946
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1948       0
+readObjectsFromFile: object is: 1948
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1950       0
+readObjectsFromFile: object is: 1950
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1952       0
+readObjectsFromFile: object is: 1952
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1954       0
+readObjectsFromFile: object is: 1954
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1956       0
+readObjectsFromFile: object is: 1956
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1958       0
+readObjectsFromFile: object is: 1958
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1960       0
+readObjectsFromFile: object is: 1960
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1962       0
+readObjectsFromFile: object is: 1962
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1964       0
+readObjectsFromFile: object is: 1964
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1966       0
+readObjectsFromFile: object is: 1966
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1968       0
+readObjectsFromFile: object is: 1968
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1970       0
+readObjectsFromFile: object is: 1970
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1972       0
+readObjectsFromFile: object is: 1972
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1974       0
+readObjectsFromFile: object is: 1974
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1976       0
+readObjectsFromFile: object is: 1976
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1978       0
+readObjectsFromFile: object is: 1978
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1980       0
+readObjectsFromFile: object is: 1980
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1982       0
+readObjectsFromFile: object is: 1982
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1984       0
+readObjectsFromFile: object is: 1984
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1986       0
+readObjectsFromFile: object is: 1986
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1988       0
+readObjectsFromFile: object is: 1988
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1990       0
+readObjectsFromFile: object is: 1990
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1992       0
+readObjectsFromFile: object is: 1992
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1994       0
+readObjectsFromFile: object is: 1994
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1996       0
+readObjectsFromFile: object is: 1996
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 1998       0
+readObjectsFromFile: object is: 1998
+readObjectsFromFile: status is: 0
+readObjectsFromFile: Read this line from configuration file: 2000       0
+readObjectsFromFile: object is: 2000
+readObjectsFromFile: status is: 0
+[s0n0] executeSingle: Unknown request type 20
