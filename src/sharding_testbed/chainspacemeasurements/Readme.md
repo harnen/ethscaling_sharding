@@ -5,12 +5,12 @@
 
 Clone github repository
 ```shell
-$ git clone git@github.com:srene/byzcuit.git
+$ git clone git@github.com:harnen/ethscaling_sharding.git
 ```
 
 Install python libraries
 ```shell
-$ cd byzcuit
+$ cd ethscaling_sharding/src/sharding_testbed
 $ pip install -e chainspacemeasurements
 ```
 
